@@ -1,0 +1,29 @@
+_repo: Dave-Dawson-with-the-Air-Corps_52095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowen, Robert Sidney
+    aliases:
+    - Richard, James Robert
+    - Bowen, Robert Sydney
+    - Bowen, R. Sidney
+    birthdate: 1900
+    deathdate: 1977
+    gutenberg_agent_id: '35796'
+    url: http://www.gutenberg.org/2009/agents/35796
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2016-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1939-1945 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Dave Dawson with the Air Corps
+url: http://www.gutenberg.org/ebooks/52095
